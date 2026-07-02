@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>주주배정 유상증자 트래커</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+  :root{--ink:#0E1B2A;--ink-2:#152535;--amber:#D4A24C;
+        --line:#2A3B4D;--text:#E9E4D6;--text-dim:#8FA0AE;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--ink);color:var(--text);font-family:'Inter',sans-serif;
+       line-height:1.6;padding:0 20px 80px;}
+  .wrap{max-width:760px;margin:0 auto;}
+  a{color:inherit;text-decoration:none;}
+  header{padding:56px 0 32px;border-bottom:1px solid var(--line);margin-bottom:40px;}
+  .eyebrow{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.12em;
+           text-transform:uppercase;color:var(--amber);margin-bottom:14px;}
+  h1{font-family:'Source Serif 4',serif;font-weight:600;font-size:clamp(24px,4vw,36px);
+     margin-bottom:10px;}
+  .sub{color:var(--text-dim);font-size:14.5px;max-width:60ch;}
+  .row{display:flex;justify-content:space-between;align-items:center;gap:16px;
+       padding:16px 4px;border-bottom:1px solid var(--line);}
+  .row:hover{background:var(--ink-2);}
+  .row .name{font-weight:500;font-size:15px;}
+  .row .code{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--text-dim);}
+  .row .date{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--amber);
+             white-space:nowrap;}
+  .timeline{position:relative;}
+  .timeline::before{content:'';position:absolute;left:82px;top:6px;bottom:6px;
+                     width:1px;background:var(--line);}
+  .item{display:grid;grid-template-columns:82px 24px 1fr;gap:0 20px;
+        padding-bottom:32px;position:relative;}
+  .item .date{font-family:'JetBrains Mono',monospace;font-size:12px;
+              color:var(--text-dim);text-align:right;padding-top:2px;}
+  .item .dot-col{display:flex;justify-content:center;}
+  .item .dot{width:11px;height:11px;border-radius:50%;background:var(--ink);
+             border:2px solid var(--line);margin-top:4px;z-index:1;}
+  .item.key .dot{border-color:var(--amber);background:var(--amber);}
+  .item .title{font-size:14.5px;font-weight:500;}
+  .item.key .title{color:var(--amber);}
+  .item .desc{font-size:13px;color:var(--text-dim);}
+  footer{margin-top:56px;padding-top:20px;border-top:1px solid var(--line);
+         font-size:12px;color:var(--text-dim);font-family:'JetBrains Mono',monospace;}
+</style>
+</head><body><div class="wrap">
+
+    <header>
+      <div class="eyebrow">DAILY DART SCAN</div>
+      <h1>주주배정후 실권주 일반공모 트래커</h1>
+      <p class="sub">매일 DART 주요사항보고서를 스캔해 '주주배정후 실권주 일반공모' 방식
+      유상증자만 자동 수집합니다. 항목을 클릭하면 상세 일정을 볼 수 있습니다.</p>
+    </header>
+    <p class="sub">아직 수집된 공시가 없습니다. 매일 자동으로 채워집니다.</p>
+    <footer>매일 자동 갱신 · 출처: DART 전자공시시스템 · 투자 권유 아님</footer>
+    </div></body></html>
