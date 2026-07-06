@@ -1,1 +1,14 @@
-[]
+[
+ {
+  "signal_dt": "20260706",
+  "corp": "유니테크노",
+  "corp_code": "00531865",
+  "bd_tm": 2,
+  "adj_after": 3229.0,
+  "floor_prc": 3229.0,
+  "call_owner_side": true,
+  "rcept_no": "20260706900329",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ }
+]

@@ -14118,5 +14118,25 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260629"
+ },
+ "00148531_5": {
+  "corp_name": "제이스코홀딩스",
+  "corp_code": "00148531",
+  "bd_tm": 5,
+  "cv_prc": 506.0,
+  "floor_prc": 500.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260706"
+ },
+ "00161781_7": {
+  "corp_name": "아난티",
+  "corp_code": "00161781",
+  "bd_tm": 7,
+  "cv_prc": 4187.0,
+  "floor_prc": 2931.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260706"
  }
 }
