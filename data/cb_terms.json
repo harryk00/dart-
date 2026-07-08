@@ -14138,5 +14138,45 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260706"
+ },
+ "00141404_8": {
+  "corp_name": "블루산업개발",
+  "corp_code": "00141404",
+  "bd_tm": 8,
+  "cv_prc": 933.0,
+  "floor_prc": 654.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260708"
+ },
+ "01569102_2": {
+  "corp_name": "라이콤",
+  "corp_code": "01569102",
+  "bd_tm": 2,
+  "cv_prc": 5788.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260708"
+ },
+ "01298930_8": {
+  "corp_name": "사운드백신",
+  "corp_code": "01298930",
+  "bd_tm": 8,
+  "cv_prc": 300.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260708"
+ },
+ "00961774_7": {
+  "corp_name": "유티아이",
+  "corp_code": "00961774",
+  "bd_tm": 7,
+  "cv_prc": 4795.0,
+  "floor_prc": 3357.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260708"
  }
 }
