@@ -14178,5 +14178,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260708"
+ },
+ "00753643_12": {
+  "corp_name": "주성코퍼레이션",
+  "corp_code": "00753643",
+  "bd_tm": 12,
+  "cv_prc": 1476.0,
+  "floor_prc": 1034.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260709"
  }
 }
