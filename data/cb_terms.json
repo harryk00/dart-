@@ -14188,5 +14188,45 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260709"
+ },
+ "00765897_3": {
+  "corp_name": "한국피아이엠",
+  "corp_code": "00765897",
+  "bd_tm": 3,
+  "cv_prc": 54431.0,
+  "floor_prc": 46267.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260710"
+ },
+ "01335453_4": {
+  "corp_name": "조이웍스앤코",
+  "corp_code": "01335453",
+  "bd_tm": 4,
+  "cv_prc": 965.0,
+  "floor_prc": 676.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260710"
+ },
+ "00372226_1": {
+  "corp_name": "티에스이",
+  "corp_code": "00372226",
+  "bd_tm": 1,
+  "cv_prc": 238664.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260710"
+ },
+ "01075126_14": {
+  "corp_name": "사토시홀딩스",
+  "corp_code": "01075126",
+  "bd_tm": 14,
+  "cv_prc": 4566.0,
+  "floor_prc": 3197.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260710"
  }
 }
