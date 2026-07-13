@@ -14228,5 +14228,35 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260710"
+ },
+ "01565054_6": {
+  "corp_name": "그래피",
+  "corp_code": "01565054",
+  "bd_tm": 6,
+  "cv_prc": 18318.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260713"
+ },
+ "00152385_32": {
+  "corp_name": "에이프로젠",
+  "corp_code": "00152385",
+  "bd_tm": 32,
+  "cv_prc": 2437.0,
+  "floor_prc": 1706.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260713"
+ },
+ "00252269_9": {
+  "corp_name": "아이에이",
+  "corp_code": "00252269",
+  "bd_tm": 9,
+  "cv_prc": 2573.0,
+  "floor_prc": 1802.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260713"
  }
 }
