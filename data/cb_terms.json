@@ -14258,5 +14258,25 @@
   "has_call": true,
   "call_owner_side": false,
   "issue_rcept_dt": "20260713"
+ },
+ "00148531_6": {
+  "corp_name": "제이스코홀딩스",
+  "corp_code": "00148531",
+  "bd_tm": 6,
+  "cv_prc": 506.0,
+  "floor_prc": 500.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260714"
+ },
+ "01515864_2": {
+  "corp_name": "넥스트칩",
+  "corp_code": "01515864",
+  "bd_tm": 2,
+  "cv_prc": 2491.0,
+  "floor_prc": 1744.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260714"
  }
 }
