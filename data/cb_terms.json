@@ -14278,5 +14278,25 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260714"
+ },
+ "01416642_4": {
+  "corp_name": "다보링크",
+  "corp_code": "01416642",
+  "bd_tm": 4,
+  "cv_prc": 826.0,
+  "floor_prc": 579.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260716"
+ },
+ "01396931_1": {
+  "corp_name": "유엑스엔",
+  "corp_code": "01396931",
+  "bd_tm": 1,
+  "cv_prc": 8900.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260716"
  }
 }
