@@ -14298,5 +14298,15 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260716"
+ },
+ "00122205_37": {
+  "corp_name": "졸스",
+  "corp_code": "00122205",
+  "bd_tm": 37,
+  "cv_prc": 1216.0,
+  "floor_prc": 1000.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260720"
  }
 }
