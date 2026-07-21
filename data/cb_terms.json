@@ -14308,5 +14308,15 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260720"
+ },
+ "00896753_18": {
+  "corp_name": "에코글로우",
+  "corp_code": "00896753",
+  "bd_tm": 18,
+  "cv_prc": 3065.0,
+  "floor_prc": 2146.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260721"
  }
 }
