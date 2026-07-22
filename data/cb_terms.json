@@ -14318,5 +14318,45 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260721"
+ },
+ "01038693_4": {
+  "corp_name": "드림시큐리티",
+  "corp_code": "01038693",
+  "bd_tm": 4,
+  "cv_prc": 2118.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260722"
+ },
+ "00579980_6": {
+  "corp_name": "아이티엠반도체",
+  "corp_code": "00579980",
+  "bd_tm": 6,
+  "cv_prc": 8344.0,
+  "floor_prc": 7510.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260722"
+ },
+ "01381984_6": {
+  "corp_name": "SKAI",
+  "corp_code": "01381984",
+  "bd_tm": 6,
+  "cv_prc": 2691.0,
+  "floor_prc": 1884.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260722"
+ },
+ "00117276_5": {
+  "corp_name": "네이처셀",
+  "corp_code": "00117276",
+  "bd_tm": 5,
+  "cv_prc": 24307.0,
+  "floor_prc": 17015.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260722"
  }
 }
