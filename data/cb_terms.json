@@ -14358,5 +14358,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260722"
+ },
+ "00111111_25": {
+  "corp_name": "대양금속",
+  "corp_code": "00111111",
+  "bd_tm": 25,
+  "cv_prc": 1863.0,
+  "floor_prc": 1305.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260723"
  }
 }
