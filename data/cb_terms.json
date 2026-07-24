@@ -14368,5 +14368,15 @@
   "has_call": true,
   "call_owner_side": false,
   "issue_rcept_dt": "20260723"
+ },
+ "01703849_3": {
+  "corp_name": "노머스",
+  "corp_code": "01703849",
+  "bd_tm": 3,
+  "cv_prc": 15520.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260724"
  }
 }
