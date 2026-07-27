@@ -14378,5 +14378,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260724"
+ },
+ "01093007_1": {
+  "corp_name": "LS에코에너지",
+  "corp_code": "01093007",
+  "bd_tm": 1,
+  "cv_prc": 48500.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260727"
  }
 }
