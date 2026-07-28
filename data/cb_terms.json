@@ -14388,5 +14388,15 @@
   "has_call": true,
   "call_owner_side": false,
   "issue_rcept_dt": "20260727"
+ },
+ "00403766_4": {
+  "corp_name": "한국첨단소재",
+  "corp_code": "00403766",
+  "bd_tm": 4,
+  "cv_prc": 2399.0,
+  "floor_prc": 1680.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260728"
  }
 }
