@@ -22,5 +22,17 @@
   "rcept_no": "20260713900408",
   "status": "open",
   "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20260730",
+  "corp": "슈어소프트테크",
+  "corp_code": "01012640",
+  "bd_tm": 1,
+  "adj_after": 6552.0,
+  "floor_prc": 6552.0,
+  "call_owner_side": true,
+  "rcept_no": "20260730900261",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
  }
 ]
