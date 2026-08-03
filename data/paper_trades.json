@@ -34,5 +34,17 @@
   "rcept_no": "20260730900261",
   "status": "open",
   "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20260803",
+  "corp": "에브리봇",
+  "corp_code": "01201590",
+  "bd_tm": 1,
+  "adj_after": 17809.0,
+  "floor_prc": 17809.0,
+  "call_owner_side": true,
+  "rcept_no": "20260803900663",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
  }
 ]

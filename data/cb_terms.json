@@ -14398,5 +14398,45 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260728"
+ },
+ "00181712_1": {
+  "corp_name": "SK",
+  "corp_code": "00181712",
+  "bd_tm": 1,
+  "cv_prc": 544785.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260803"
+ },
+ "00138242_124": {
+  "corp_name": "KG모빌리티",
+  "corp_code": "00138242",
+  "bd_tm": 124,
+  "cv_prc": 2760.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260803"
+ },
+ "01098792_6": {
+  "corp_name": "본느",
+  "corp_code": "01098792",
+  "bd_tm": 6,
+  "cv_prc": 1396.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260803"
+ },
+ "01098792_5": {
+  "corp_name": "본느",
+  "corp_code": "01098792",
+  "bd_tm": 5,
+  "cv_prc": 1396.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260803"
  }
 }
