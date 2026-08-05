@@ -14438,5 +14438,35 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260803"
+ },
+ "00199252_44": {
+  "corp_name": "HLB",
+  "corp_code": "00199252",
+  "bd_tm": 44,
+  "cv_prc": 33361.0,
+  "floor_prc": 23353.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260805"
+ },
+ "00296078_5": {
+  "corp_name": "APS",
+  "corp_code": "00296078",
+  "bd_tm": 5,
+  "cv_prc": 4151.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260805"
+ },
+ "00231044_20": {
+  "corp_name": "우리기술",
+  "corp_code": "00231044",
+  "bd_tm": 20,
+  "cv_prc": 10717.0,
+  "floor_prc": 8574.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260805"
  }
 }
