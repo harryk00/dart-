@@ -14498,5 +14498,15 @@
   "has_call": true,
   "call_owner_side": false,
   "issue_rcept_dt": "20260806"
+ },
+ "00116426_25": {
+  "corp_name": "이렘",
+  "corp_code": "00116426",
+  "bd_tm": 25,
+  "cv_prc": 2130.0,
+  "floor_prc": 1491.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260807"
  }
 }
