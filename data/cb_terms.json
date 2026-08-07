@@ -14468,5 +14468,35 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260805"
+ },
+ "01480708_2": {
+  "corp_name": "HEM파마",
+  "corp_code": "01480708",
+  "bd_tm": 2,
+  "cv_prc": 43912.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260806"
+ },
+ "00317210_20": {
+  "corp_name": "성호전자",
+  "corp_code": "00317210",
+  "bd_tm": 20,
+  "cv_prc": 19114.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260806"
+ },
+ "00169048_37": {
+  "corp_name": "HLB글로벌",
+  "corp_code": "00169048",
+  "bd_tm": 37,
+  "cv_prc": 1433.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260806"
  }
 }
