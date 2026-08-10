@@ -14508,5 +14508,25 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260807"
+ },
+ "00152385_34": {
+  "corp_name": "에이프로젠",
+  "corp_code": "00152385",
+  "bd_tm": 34,
+  "cv_prc": 2552.0,
+  "floor_prc": 1787.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260810"
+ },
+ "00152385_33": {
+  "corp_name": "에이프로젠",
+  "corp_code": "00152385",
+  "bd_tm": 33,
+  "cv_prc": 2552.0,
+  "floor_prc": 1787.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260810"
  }
 }
