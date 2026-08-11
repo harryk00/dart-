@@ -46,5 +46,17 @@
   "rcept_no": "20260803900663",
   "status": "open",
   "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20260811",
+  "corp": "아이텍",
+  "corp_code": "00626011",
+  "bd_tm": 5,
+  "adj_after": 5765.0,
+  "floor_prc": 5765.0,
+  "call_owner_side": true,
+  "rcept_no": "20260811900909",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
  }
 ]
