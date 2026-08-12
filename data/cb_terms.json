@@ -14528,5 +14528,15 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260810"
+ },
+ "01187494_4": {
+  "corp_name": "덴티스",
+  "corp_code": "01187494",
+  "bd_tm": 4,
+  "cv_prc": 3102.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260812"
  }
 }
