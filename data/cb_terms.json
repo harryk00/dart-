@@ -14538,5 +14538,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260812"
+ },
+ "00563518_4": {
+  "corp_name": "비나텍",
+  "corp_code": "00563518",
+  "bd_tm": 4,
+  "cv_prc": 78818.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260814"
  }
 }
