@@ -14558,5 +14558,15 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260818"
+ },
+ "00276834_14": {
+  "corp_name": "KX하이텍",
+  "corp_code": "00276834",
+  "bd_tm": 14,
+  "cv_prc": 1264.0,
+  "floor_prc": 885.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260819"
  }
 }
