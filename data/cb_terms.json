@@ -14568,5 +14568,45 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260819"
+ },
+ "00416414_10": {
+  "corp_name": "넥스턴앤롤코리아",
+  "corp_code": "00416414",
+  "bd_tm": 10,
+  "cv_prc": 2500.0,
+  "floor_prc": 2500.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260820"
+ },
+ "00416414_9": {
+  "corp_name": "넥스턴앤롤코리아",
+  "corp_code": "00416414",
+  "bd_tm": 9,
+  "cv_prc": 2500.0,
+  "floor_prc": 2500.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260820"
+ },
+ "00115287_118": {
+  "corp_name": "동방",
+  "corp_code": "00115287",
+  "bd_tm": 118,
+  "cv_prc": 2213.0,
+  "floor_prc": 1550.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260820"
+ },
+ "01546101_6": {
+  "corp_name": "아이엠티",
+  "corp_code": "01546101",
+  "bd_tm": 6,
+  "cv_prc": 12661.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260820"
  }
 }
