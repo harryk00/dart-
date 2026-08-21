@@ -14608,5 +14608,35 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260820"
+ },
+ "01142075_8": {
+  "corp_name": "핑거",
+  "corp_code": "01142075",
+  "bd_tm": 8,
+  "cv_prc": 10860.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260821"
+ },
+ "01105621_18": {
+  "corp_name": "엔투텍",
+  "corp_code": "01105621",
+  "bd_tm": 18,
+  "cv_prc": 1519.0,
+  "floor_prc": 1063.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260821"
+ },
+ "01105621_19": {
+  "corp_name": "엔투텍",
+  "corp_code": "01105621",
+  "bd_tm": 19,
+  "cv_prc": 1519.0,
+  "floor_prc": 1063.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260821"
  }
 }
