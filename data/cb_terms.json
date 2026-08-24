@@ -14638,5 +14638,85 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260821"
+ },
+ "01440153_8": {
+  "corp_name": "넥사다이내믹스",
+  "corp_code": "01440153",
+  "bd_tm": 8,
+  "cv_prc": 1238.0,
+  "floor_prc": 867.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260824"
+ },
+ "00838005_42": {
+  "corp_name": "서진시스템",
+  "corp_code": "00838005",
+  "bd_tm": 42,
+  "cv_prc": 36950.0,
+  "floor_prc": 29560.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260824"
+ },
+ "00838005_41": {
+  "corp_name": "서진시스템",
+  "corp_code": "00838005",
+  "bd_tm": 41,
+  "cv_prc": 33255.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260824"
+ },
+ "00838005_40": {
+  "corp_name": "서진시스템",
+  "corp_code": "00838005",
+  "bd_tm": 40,
+  "cv_prc": 36950.0,
+  "floor_prc": 29560.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260824"
+ },
+ "00297989_13": {
+  "corp_name": "오르비텍",
+  "corp_code": "00297989",
+  "bd_tm": 13,
+  "cv_prc": 4514.0,
+  "floor_prc": 3160.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260824"
+ },
+ "00838005_39": {
+  "corp_name": "서진시스템",
+  "corp_code": "00838005",
+  "bd_tm": 39,
+  "cv_prc": 33255.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260824"
+ },
+ "01299203_2": {
+  "corp_name": "그리드위즈",
+  "corp_code": "01299203",
+  "bd_tm": 2,
+  "cv_prc": 14116.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260824"
+ },
+ "01299203_1": {
+  "corp_name": "그리드위즈",
+  "corp_code": "01299203",
+  "bd_tm": 1,
+  "cv_prc": 14116.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260824"
  }
 }
