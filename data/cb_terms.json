@@ -14718,5 +14718,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260824"
+ },
+ "01601222_2": {
+  "corp_name": "씨피시스템",
+  "corp_code": "01601222",
+  "bd_tm": 2,
+  "cv_prc": 5106.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260826"
  }
 }
