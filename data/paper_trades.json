@@ -58,5 +58,29 @@
   "rcept_no": "20260811900909",
   "status": "open",
   "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20260831",
+  "corp": "콜마바이오텍",
+  "corp_code": "01065013",
+  "bd_tm": 8,
+  "adj_after": 2515.0,
+  "floor_prc": 2515.0,
+  "call_owner_side": false,
+  "rcept_no": "20260831900425",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20260831",
+  "corp": "시선AI",
+  "corp_code": "01315042",
+  "bd_tm": 4,
+  "adj_after": 4031.0,
+  "floor_prc": 4031.0,
+  "call_owner_side": true,
+  "rcept_no": "20260831900301",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
  }
 ]

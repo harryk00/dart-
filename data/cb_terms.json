@@ -14738,5 +14738,25 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260827"
+ },
+ "00317210_21": {
+  "corp_name": "성호전자",
+  "corp_code": "00317210",
+  "bd_tm": 21,
+  "cv_prc": 17192.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260901"
+ },
+ "00186559_4": {
+  "corp_name": "아이티센씨티에스",
+  "corp_code": "00186559",
+  "bd_tm": 4,
+  "cv_prc": 6109.0,
+  "floor_prc": 5000.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260831"
  }
 }
