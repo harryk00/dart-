@@ -14758,5 +14758,15 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260831"
+ },
+ "00526951_6": {
+  "corp_name": "신화프리텍",
+  "corp_code": "00526951",
+  "bd_tm": 6,
+  "cv_prc": 1869.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260901"
  }
 }
