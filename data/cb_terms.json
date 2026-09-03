@@ -14768,5 +14768,35 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260901"
+ },
+ "00403766_6": {
+  "corp_name": "한국첨단소재",
+  "corp_code": "00403766",
+  "bd_tm": 6,
+  "cv_prc": 2366.0,
+  "floor_prc": 1657.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260902"
+ },
+ "00403766_5": {
+  "corp_name": "한국첨단소재",
+  "corp_code": "00403766",
+  "bd_tm": 5,
+  "cv_prc": 2366.0,
+  "floor_prc": 1657.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260902"
+ },
+ "00126414_33": {
+  "corp_name": "삼성제약",
+  "corp_code": "00126414",
+  "bd_tm": 33,
+  "cv_prc": 1346.0,
+  "floor_prc": 943.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260902"
  }
 }
