@@ -14798,5 +14798,25 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260902"
+ },
+ "01051472_8": {
+  "corp_name": "젠큐릭스",
+  "corp_code": "01051472",
+  "bd_tm": 8,
+  "cv_prc": 1919.0,
+  "floor_prc": 1344.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260903"
+ },
+ "00152385_35": {
+  "corp_name": "에이프로젠",
+  "corp_code": "00152385",
+  "bd_tm": 35,
+  "cv_prc": 2396.0,
+  "floor_prc": 1678.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260903"
  }
 }
