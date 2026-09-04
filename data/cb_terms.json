@@ -14818,5 +14818,25 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260903"
+ },
+ "01399992_5": {
+  "corp_name": "뉴라텍",
+  "corp_code": "01399992",
+  "bd_tm": 5,
+  "cv_prc": 13070.0,
+  "floor_prc": 9149.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260904"
+ },
+ "00924931_5": {
+  "corp_name": "엔비알모션",
+  "corp_code": "00924931",
+  "bd_tm": 5,
+  "cv_prc": 6969.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260904"
  }
 }
