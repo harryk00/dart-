@@ -14838,5 +14838,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260904"
+ },
+ "00530413_11": {
+  "corp_name": "더코디",
+  "corp_code": "00530413",
+  "bd_tm": 11,
+  "cv_prc": 3550.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260908"
  }
 }
