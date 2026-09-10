@@ -82,5 +82,17 @@
   "rcept_no": "20260831900301",
   "status": "open",
   "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20260909",
+  "corp": "엘앤케이바이오",
+  "corp_code": "00918222",
+  "bd_tm": 10,
+  "adj_after": 6345.0,
+  "floor_prc": 6345.0,
+  "call_owner_side": true,
+  "rcept_no": "20260909900484",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
  }
 ]

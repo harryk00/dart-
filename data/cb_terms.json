@@ -14848,5 +14848,15 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260908"
+ },
+ "01141599_7": {
+  "corp_name": "아리바이오LAB",
+  "corp_code": "01141599",
+  "bd_tm": 7,
+  "cv_prc": 3237.0,
+  "floor_prc": 2266.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260909"
  }
 }
