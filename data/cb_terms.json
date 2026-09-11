@@ -14858,5 +14858,35 @@
   "has_call": true,
   "call_owner_side": false,
   "issue_rcept_dt": "20260909"
+ },
+ "00406037_6": {
+  "corp_name": "CSA 코스믹",
+  "corp_code": "00406037",
+  "bd_tm": 6,
+  "cv_prc": 1719.0,
+  "floor_prc": 1203.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260910"
+ },
+ "01657197_1": {
+  "corp_name": "바이오비쥬",
+  "corp_code": "01657197",
+  "bd_tm": 1,
+  "cv_prc": 14000.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260910"
+ },
+ "01326279_9": {
+  "corp_name": "아이엘",
+  "corp_code": "01326279",
+  "bd_tm": 9,
+  "cv_prc": 8467.0,
+  "floor_prc": 6774.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260910"
  }
 }
