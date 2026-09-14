@@ -14888,5 +14888,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260910"
+ },
+ "00618410_19": {
+  "corp_name": "KS인더스트리",
+  "corp_code": "00618410",
+  "bd_tm": 19,
+  "cv_prc": 1440.0,
+  "floor_prc": 1008.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260914"
  }
 }
