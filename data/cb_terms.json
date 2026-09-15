@@ -14898,5 +14898,55 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260914"
+ },
+ "00299367_25": {
+  "corp_name": "에스엘엘중앙",
+  "corp_code": "00299367",
+  "bd_tm": 25,
+  "cv_prc": 3928.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260914"
+ },
+ "00169048_38": {
+  "corp_name": "HLB글로벌",
+  "corp_code": "00169048",
+  "bd_tm": 38,
+  "cv_prc": 1643.0,
+  "floor_prc": 1151.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260914"
+ },
+ "01141599_8": {
+  "corp_name": "아리바이오LAB",
+  "corp_code": "01141599",
+  "bd_tm": 8,
+  "cv_prc": 3500.0,
+  "floor_prc": 2450.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260914"
+ },
+ "01764099_1": {
+  "corp_name": "링크솔루션",
+  "corp_code": "01764099",
+  "bd_tm": 1,
+  "cv_prc": 32823.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260914"
+ },
+ "01407158_2": {
+  "corp_name": "이노테나",
+  "corp_code": "01407158",
+  "bd_tm": 2,
+  "cv_prc": 7725.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260914"
  }
 }
