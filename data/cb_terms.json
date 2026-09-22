@@ -14958,5 +14958,65 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260915"
+ },
+ "01430475_9": {
+  "corp_name": "코람코라이프인프라리츠",
+  "corp_code": "01430475",
+  "bd_tm": 9,
+  "cv_prc": 4092.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260922"
+ },
+ "01430475_8": {
+  "corp_name": "코람코라이프인프라리츠",
+  "corp_code": "01430475",
+  "bd_tm": 8,
+  "cv_prc": 4092.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260922"
+ },
+ "01315042_8": {
+  "corp_name": "시선AI",
+  "corp_code": "01315042",
+  "bd_tm": 8,
+  "cv_prc": 4192.0,
+  "floor_prc": 2935.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260921"
+ },
+ "00186939_6": {
+  "corp_name": "특수건설",
+  "corp_code": "00186939",
+  "bd_tm": 6,
+  "cv_prc": 4139.0,
+  "floor_prc": 2898.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260921"
+ },
+ "01309795_4": {
+  "corp_name": "아틀라스링크",
+  "corp_code": "01309795",
+  "bd_tm": 4,
+  "cv_prc": 4070.0,
+  "floor_prc": 2849.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260921"
+ },
+ "00350020_13": {
+  "corp_name": "파인디앤씨",
+  "corp_code": "00350020",
+  "bd_tm": 13,
+  "cv_prc": 2990.0,
+  "floor_prc": 2500.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260921"
  }
 }
