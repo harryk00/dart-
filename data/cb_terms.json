@@ -15018,5 +15018,25 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260921"
+ },
+ "00367695_36": {
+  "corp_name": "에이전트AI",
+  "corp_code": "00367695",
+  "bd_tm": 36,
+  "cv_prc": 3200.0,
+  "floor_prc": 2240.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260922"
+ },
+ "01514698_7": {
+  "corp_name": "엑스플러스",
+  "corp_code": "01514698",
+  "bd_tm": 7,
+  "cv_prc": 1855.0,
+  "floor_prc": 1299.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260922"
  }
 }
