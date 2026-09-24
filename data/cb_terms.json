@@ -15038,5 +15038,15 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20260922"
+ },
+ "01689266_1": {
+  "corp_name": "케이쓰리아이",
+  "corp_code": "01689266",
+  "bd_tm": 1,
+  "cv_prc": 3873.0,
+  "floor_prc": 2712.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20260923"
  }
 }
