@@ -15048,5 +15048,15 @@
   "has_call": true,
   "call_owner_side": false,
   "issue_rcept_dt": "20260923"
+ },
+ "01142075_9": {
+  "corp_name": "핑거",
+  "corp_code": "01142075",
+  "bd_tm": 9,
+  "cv_prc": 11904.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260928"
  }
 }
