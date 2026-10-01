@@ -15058,5 +15058,25 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260928"
+ },
+ "00151605_16": {
+  "corp_name": "청보",
+  "corp_code": "00151605",
+  "bd_tm": 16,
+  "cv_prc": 2204.0,
+  "floor_prc": 1543.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261001"
+ },
+ "01437858_1": {
+  "corp_name": "진시스템",
+  "corp_code": "01437858",
+  "bd_tm": 1,
+  "cv_prc": 4141.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20260930"
  }
 }
