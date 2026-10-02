@@ -15078,5 +15078,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20260930"
+ },
+ "01310773_4": {
+  "corp_name": "엔시스",
+  "corp_code": "01310773",
+  "bd_tm": 4,
+  "cv_prc": 5390.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261001"
  }
 }
