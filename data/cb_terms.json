@@ -15088,5 +15088,35 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20261001"
+ },
+ "00619507_9": {
+  "corp_name": "와이씨켐",
+  "corp_code": "00619507",
+  "bd_tm": 9,
+  "cv_prc": 12526.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261002"
+ },
+ "00963976_22": {
+  "corp_name": "SG",
+  "corp_code": "00963976",
+  "bd_tm": 22,
+  "cv_prc": 1140.0,
+  "floor_prc": 798.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261002"
+ },
+ "00367871_5": {
+  "corp_name": "인바이오",
+  "corp_code": "00367871",
+  "bd_tm": 5,
+  "cv_prc": 2082.0,
+  "floor_prc": 1458.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261002"
  }
 }
