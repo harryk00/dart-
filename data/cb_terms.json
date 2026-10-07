@@ -15118,5 +15118,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261002"
+ },
+ "00619640_8": {
+  "corp_name": "에코앤드림",
+  "corp_code": "00619640",
+  "bd_tm": 8,
+  "cv_prc": 9700.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261006"
  }
 }
