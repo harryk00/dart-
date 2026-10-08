@@ -15128,5 +15128,25 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261006"
+ },
+ "00367482_19": {
+  "corp_name": "빛과전자",
+  "corp_code": "00367482",
+  "bd_tm": 19,
+  "cv_prc": 4946.0,
+  "floor_prc": 3463.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261007"
+ },
+ "01524118_2": {
+  "corp_name": "나노팀",
+  "corp_code": "01524118",
+  "bd_tm": 2,
+  "cv_prc": 8918.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261007"
  }
 }

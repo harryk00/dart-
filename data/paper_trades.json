@@ -130,5 +130,17 @@
   "rcept_no": "20260930900203",
   "status": "open",
   "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20261007",
+  "corp": "DH오토리드",
+  "corp_code": "01182578",
+  "bd_tm": 12,
+  "adj_after": 2491.0,
+  "floor_prc": 2491.0,
+  "call_owner_side": true,
+  "rcept_no": "20261007900366",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
  }
 ]
