@@ -15125,8 +15125,8 @@
   "bd_tm": 8,
   "cv_prc": 9700.0,
   "floor_prc": null,
-  "has_call": true,
-  "call_owner_side": true,
+  "has_call": false,
+  "call_owner_side": false,
   "issue_rcept_dt": "20261006"
  },
  "00367482_19": {
@@ -15135,8 +15135,8 @@
   "bd_tm": 19,
   "cv_prc": 4946.0,
   "floor_prc": 3463.0,
-  "has_call": true,
-  "call_owner_side": true,
+  "has_call": false,
+  "call_owner_side": false,
   "issue_rcept_dt": "20261007"
  },
  "01524118_2": {
@@ -15145,8 +15145,38 @@
   "bd_tm": 2,
   "cv_prc": 8918.0,
   "floor_prc": null,
-  "has_call": true,
-  "call_owner_side": true,
+  "has_call": false,
+  "call_owner_side": false,
   "issue_rcept_dt": "20261007"
+ },
+ "01559637_2": {
+  "corp_name": "블루엠텍",
+  "corp_code": "01559637",
+  "bd_tm": 2,
+  "cv_prc": 3235.0,
+  "floor_prc": 2265.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261008"
+ },
+ "00145598_5": {
+  "corp_name": "이연제약",
+  "corp_code": "00145598",
+  "bd_tm": 5,
+  "cv_prc": 10170.0,
+  "floor_prc": 8136.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261008"
+ },
+ "00145598_4": {
+  "corp_name": "이연제약",
+  "corp_code": "00145598",
+  "bd_tm": 4,
+  "cv_prc": 10170.0,
+  "floor_prc": 8136.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261008"
  }
 }
