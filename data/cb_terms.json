@@ -15178,5 +15178,15 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20261008"
+ },
+ "01458161_1": {
+  "corp_name": "티엑스알로보틱스",
+  "corp_code": "01458161",
+  "bd_tm": 1,
+  "cv_prc": 15633.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261012"
  }
 }
