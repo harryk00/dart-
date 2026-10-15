@@ -15208,5 +15208,25 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261013"
+ },
+ "01275665_4": {
+  "corp_name": "리메드",
+  "corp_code": "01275665",
+  "bd_tm": 4,
+  "cv_prc": 2954.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261014"
+ },
+ "00177816_9": {
+  "corp_name": "대주전자재료",
+  "corp_code": "00177816",
+  "bd_tm": 9,
+  "cv_prc": 120000.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261014"
  }
 }
