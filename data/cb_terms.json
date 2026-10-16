@@ -15228,5 +15228,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261014"
+ },
+ "01274310_7": {
+  "corp_name": "이오플로우",
+  "corp_code": "01274310",
+  "bd_tm": 7,
+  "cv_prc": 3000.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261015"
  }
 }
