@@ -15238,5 +15238,15 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20261015"
+ },
+ "00226352_11": {
+  "corp_name": "케이엠더블유",
+  "corp_code": "00226352",
+  "bd_tm": 11,
+  "cv_prc": 18140.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261016"
  }
 }
