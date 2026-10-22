@@ -15268,5 +15268,55 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261020"
+ },
+ "00406329_7": {
+  "corp_name": "루멘스바이오스",
+  "corp_code": "00406329",
+  "bd_tm": 7,
+  "cv_prc": 1142.0,
+  "floor_prc": 1000.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261021"
+ },
+ "01381984_7": {
+  "corp_name": "SKAI",
+  "corp_code": "01381984",
+  "bd_tm": 7,
+  "cv_prc": 1602.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261021"
+ },
+ "01551042_2": {
+  "corp_name": "애드포러스",
+  "corp_code": "01551042",
+  "bd_tm": 2,
+  "cv_prc": 6894.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261021"
+ },
+ "00309831_5": {
+  "corp_name": "알에프텍",
+  "corp_code": "00309831",
+  "bd_tm": 5,
+  "cv_prc": 6485.0,
+  "floor_prc": 4540.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261021"
+ },
+ "00309831_4": {
+  "corp_name": "알에프텍",
+  "corp_code": "00309831",
+  "bd_tm": 4,
+  "cv_prc": 6485.0,
+  "floor_prc": 4540.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261021"
  }
 }

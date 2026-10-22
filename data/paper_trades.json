@@ -142,5 +142,29 @@
   "rcept_no": "20261007900366",
   "status": "open",
   "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20261021",
+  "corp": "성우전자",
+  "corp_code": "00364306",
+  "bd_tm": 2,
+  "adj_after": 2477.0,
+  "floor_prc": 2477.0,
+  "call_owner_side": true,
+  "rcept_no": "20261021900475",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20261021",
+  "corp": "풍원정밀",
+  "corp_code": "00417167",
+  "bd_tm": 2,
+  "adj_after": 7444.0,
+  "floor_prc": 7444.0,
+  "call_owner_side": true,
+  "rcept_no": "20261021900153",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
  }
 ]
