@@ -15348,5 +15348,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261023"
+ },
+ "00602279_6": {
+  "corp_name": "그린플러스",
+  "corp_code": "00602279",
+  "bd_tm": 6,
+  "cv_prc": 3699.0,
+  "floor_prc": 2590.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261027"
  }
 }
