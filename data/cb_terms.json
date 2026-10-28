@@ -15358,5 +15358,25 @@
   "has_call": true,
   "call_owner_side": false,
   "issue_rcept_dt": "20261027"
+ },
+ "00369569_8": {
+  "corp_name": "비케이홀딩스",
+  "corp_code": "00369569",
+  "bd_tm": 8,
+  "cv_prc": 2810.0,
+  "floor_prc": 1967.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261027"
+ },
+ "01142075_10": {
+  "corp_name": "핑거",
+  "corp_code": "01142075",
+  "bd_tm": 10,
+  "cv_prc": 12193.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261027"
  }
 }
