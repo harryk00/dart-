@@ -15378,5 +15378,45 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261027"
+ },
+ "01022902_12": {
+  "corp_name": "애드바이오텍",
+  "corp_code": "01022902",
+  "bd_tm": 12,
+  "cv_prc": 1999.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261030"
+ },
+ "00561723_1": {
+  "corp_name": "쏘닉스",
+  "corp_code": "00561723",
+  "bd_tm": 1,
+  "cv_prc": 4813.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261029"
+ },
+ "01406265_1": {
+  "corp_name": "와이랩",
+  "corp_code": "01406265",
+  "bd_tm": 1,
+  "cv_prc": 1908.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261029"
+ },
+ "00493325_8": {
+  "corp_name": "에이엘티",
+  "corp_code": "00493325",
+  "bd_tm": 8,
+  "cv_prc": 15410.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261029"
  }
 }
