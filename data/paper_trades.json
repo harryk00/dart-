@@ -166,5 +166,17 @@
   "rcept_no": "20261021900153",
   "status": "open",
   "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20261030",
+  "corp": "SKAI",
+  "corp_code": "01381984",
+  "bd_tm": 6,
+  "adj_after": 1880.0,
+  "floor_prc": 1884.0,
+  "call_owner_side": true,
+  "rcept_no": "20261030900451",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
  }
 ]
