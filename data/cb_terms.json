@@ -15418,5 +15418,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261029"
+ },
+ "00104120_5": {
+  "corp_name": "광진실업",
+  "corp_code": "00104120",
+  "bd_tm": 5,
+  "cv_prc": 3580.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261102"
  }
 }
