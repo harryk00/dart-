@@ -15428,5 +15428,35 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261102"
+ },
+ "01061497_16": {
+  "corp_name": "FSN",
+  "corp_code": "01061497",
+  "bd_tm": 16,
+  "cv_prc": 1201.0,
+  "floor_prc": 841.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261104"
+ },
+ "01688568_1": {
+  "corp_name": "프로티나",
+  "corp_code": "01688568",
+  "bd_tm": 1,
+  "cv_prc": 48061.0,
+  "floor_prc": 33643.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261104"
+ },
+ "01397620_3": {
+  "corp_name": "루닛",
+  "corp_code": "01397620",
+  "bd_tm": 3,
+  "cv_prc": 15303.0,
+  "floor_prc": 10713.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261104"
  }
 }
