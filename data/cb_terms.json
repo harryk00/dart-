@@ -15458,5 +15458,15 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20261104"
+ },
+ "01366000_2": {
+  "corp_name": "태성",
+  "corp_code": "01366000",
+  "bd_tm": 2,
+  "cv_prc": 51931.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261105"
  }
 }
