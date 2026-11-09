@@ -15488,5 +15488,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261106"
+ },
+ "00838005_44": {
+  "corp_name": "서진시스템",
+  "corp_code": "00838005",
+  "bd_tm": 44,
+  "cv_prc": 33430.0,
+  "floor_prc": 26744.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261109"
  }
 }
