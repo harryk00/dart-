@@ -178,5 +178,17 @@
   "rcept_no": "20261030900451",
   "status": "open",
   "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20261111",
+  "corp": "엔켐",
+  "corp_code": "01011526",
+  "bd_tm": 11,
+  "adj_after": 51314.0,
+  "floor_prc": 51314.0,
+  "call_owner_side": false,
+  "rcept_no": "20261111900136",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
  }
 ]
