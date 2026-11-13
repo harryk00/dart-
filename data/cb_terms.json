@@ -15498,5 +15498,15 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261109"
+ },
+ "01326792_7": {
+  "corp_name": "비투엔",
+  "corp_code": "01326792",
+  "bd_tm": 7,
+  "cv_prc": 1015.0,
+  "floor_prc": 711.0,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261112"
  }
 }
