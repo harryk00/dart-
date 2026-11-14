@@ -15508,5 +15508,15 @@
   "has_call": true,
   "call_owner_side": false,
   "issue_rcept_dt": "20261112"
+ },
+ "01327746_5": {
+  "corp_name": "보로노이",
+  "corp_code": "01327746",
+  "bd_tm": 5,
+  "cv_prc": 111510.0,
+  "floor_prc": 78057.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261113"
  }
 }
