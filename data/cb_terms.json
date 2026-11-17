@@ -15518,5 +15518,15 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20261113"
+ },
+ "01437858_2": {
+  "corp_name": "진시스템",
+  "corp_code": "01437858",
+  "bd_tm": 2,
+  "cv_prc": 3911.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261116"
  }
 }
