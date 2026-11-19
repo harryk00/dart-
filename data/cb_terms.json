@@ -15528,5 +15528,15 @@
   "has_call": true,
   "call_owner_side": false,
   "issue_rcept_dt": "20261116"
+ },
+ "01182408_3": {
+  "corp_name": "소프트캠프",
+  "corp_code": "01182408",
+  "bd_tm": 3,
+  "cv_prc": 6437.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261118"
  }
 }
