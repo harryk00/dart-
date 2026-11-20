@@ -15538,5 +15538,35 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261118"
+ },
+ "00398701_10": {
+  "corp_name": "엘앤에프",
+  "corp_code": "00398701",
+  "bd_tm": 10,
+  "cv_prc": 78937.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261119"
+ },
+ "00398701_9": {
+  "corp_name": "엘앤에프",
+  "corp_code": "00398701",
+  "bd_tm": 9,
+  "cv_prc": 78937.0,
+  "floor_prc": 55256.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261119"
+ },
+ "00528791_3": {
+  "corp_name": "제일엠앤에스",
+  "corp_code": "00528791",
+  "bd_tm": 3,
+  "cv_prc": 500.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261119"
  }
 }
