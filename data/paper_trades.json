@@ -190,5 +190,17 @@
   "rcept_no": "20261111900136",
   "status": "open",
   "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
+ },
+ {
+  "signal_dt": "20261123",
+  "corp": "시너지이노베이션",
+  "corp_code": "00475985",
+  "bd_tm": 14,
+  "adj_after": 1960.0,
+  "floor_prc": 1960.0,
+  "call_owner_side": true,
+  "rcept_no": "20261123900581",
+  "status": "open",
+  "note": "D+1 종가 진입 / 180일 보유 (페이퍼)"
  }
 ]
