@@ -15568,5 +15568,45 @@
   "has_call": false,
   "call_owner_side": false,
   "issue_rcept_dt": "20261119"
+ },
+ "00398701_12": {
+  "corp_name": "엘앤에프",
+  "corp_code": "00398701",
+  "bd_tm": 12,
+  "cv_prc": 72496.0,
+  "floor_prc": null,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261126"
+ },
+ "00398701_11": {
+  "corp_name": "엘앤에프",
+  "corp_code": "00398701",
+  "bd_tm": 11,
+  "cv_prc": 72496.0,
+  "floor_prc": 50748.0,
+  "has_call": false,
+  "call_owner_side": false,
+  "issue_rcept_dt": "20261126"
+ },
+ "01095722_11": {
+  "corp_name": "심텍",
+  "corp_code": "01095722",
+  "bd_tm": 11,
+  "cv_prc": 106390.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261126"
+ },
+ "00105156_5": {
+  "corp_name": "극동유화",
+  "corp_code": "00105156",
+  "bd_tm": 5,
+  "cv_prc": 3037.0,
+  "floor_prc": 2430.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261126"
  }
 }
