@@ -15608,5 +15608,25 @@
   "has_call": true,
   "call_owner_side": true,
   "issue_rcept_dt": "20261126"
+ },
+ "01498974_2": {
+  "corp_name": "큐리옥스바이오시스템즈",
+  "corp_code": "01498974",
+  "bd_tm": 2,
+  "cv_prc": 49904.0,
+  "floor_prc": 34933.0,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261127"
+ },
+ "00843900_4": {
+  "corp_name": "육일씨엔에쓰",
+  "corp_code": "00843900",
+  "bd_tm": 4,
+  "cv_prc": 2474.0,
+  "floor_prc": null,
+  "has_call": true,
+  "call_owner_side": true,
+  "issue_rcept_dt": "20261127"
  }
 }
